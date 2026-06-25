@@ -5,7 +5,7 @@
 
 num1 = 2
 num2 = 5
-num3 = 7
-sum = num1 + num2 +num3
+num33 = 7
+sum = num1 + num2 +num33
 print("The sum is", sum)
 print("Hello Wordld")
