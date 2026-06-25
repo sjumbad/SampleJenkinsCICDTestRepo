@@ -5,6 +5,7 @@
 
 num1 = 2
 num2 = 5
-sum = num1 + num2
-print("The sum of", num1, "and", num2, "is", sum)
+num3 = 7
+sum = num1 + num2 +num3
+print("The sum is", sum)
 print("Hello Wordld")
